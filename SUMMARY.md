@@ -10,6 +10,7 @@
   * [配置开机启动](pyone-an-zhuang/pei-zhi-kai-ji-qi-dong.md)
   * [拓展部分](pyone-an-zhuang/tuo-zhan-bu-fen.md)
   * [解绑网盘](pyone-an-zhuang/jie-bang-wang-pan.md)
+* [PyOne更新](pyone-geng-xin.md)
 * [PyOne后台管理介绍](pyone-hou-tai-guan-li-jie-shao/README.md)
   * [基本设置](pyone-hou-tai-guan-li-jie-shao/ji-ben-she-zhi.md)
   * [上传文件](pyone-hou-tai-guan-li-jie-shao/shang-chuan-wen-jian.md)
