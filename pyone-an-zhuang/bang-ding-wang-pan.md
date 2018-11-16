@@ -6,11 +6,37 @@
 
 ### 绑定网盘
 
-按照以下步骤进行绑定onedrive网盘，安装界面也有介绍如何绑定onedrive网盘。
+#### 第一步：获取应用机密（client\_secret\)和应用ID（client\_id\)
+
+1. 然后点击上方按钮获取**应用机密（client\_secret\)**，填写到第二栏
+
+2. 在刚才获取**应用机密（client\_secret\)**的页面，点击`知道了，返回到快速启动`，会出现错误，查看网址栏，找到**appID**这一个参数，这个参数就是**应用ID（client\_id\)**，将**appID**复制到上方第一栏
+
+3. 填写完上方两个参数，继续**下一步**
+
+![](../.gitbook/assets/tim-jie-tu-20181116202525.png)
+
+![](../.gitbook/assets/2.png)
 
 ![](https://i.loli.net/2018/09/23/5ba7342b79efd.png)
 
+#### 第二步：获取验证码并结束绑定
+
+步骤1：点击**绑定账号**，并跳转到绑定页面
+
+步骤2：选择需要绑定的账号，进入下一步
+
+步骤3：接收认证许可，获取一个code，将这个code填写到**code栏**后，点击**结束绑定**
+
+![](../.gitbook/assets/tim-jie-tu-20181116204056.png)
+
+![](../.gitbook/assets/tim-jie-tu-20181116205753%20%281%29.png)
+
 ![](https://i.loli.net/2018/09/23/5ba7342b84ed5.png)
+
+#### 绑定成功
+
+如果没有出现错误，则会进入以下页面。
 
 ![](http://wx2.sinaimg.cn/large/0060lm7Tly1fx8uabs9yuj30lg06k74o.jpg)
 
