@@ -21,4 +21,5 @@
     * [移动文件](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/yi-dong-wen-jian.md)
     * [上传本地文件](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/shang-chuan-ben-di-wen-jian.md)
 * [PyOne命令行操作](pyone-ming-ling-hang-cao-zuo.md)
+* [QQ交流群](qq-jiao-liu-qun.md)
 
