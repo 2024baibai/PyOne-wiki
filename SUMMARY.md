@@ -9,6 +9,7 @@
   * [绑定域名](pyone-an-zhuang/bang-ding-yu-ming.md)
   * [配置开机启动](pyone-an-zhuang/pei-zhi-kai-ji-qi-dong.md)
   * [拓展部分](pyone-an-zhuang/tuo-zhan-bu-fen.md)
+  * [解绑网盘](pyone-an-zhuang/jie-bang-wang-pan.md)
 * [PyOne后台管理介绍](pyone-hou-tai-guan-li-jie-shao/README.md)
   * [基本设置](pyone-hou-tai-guan-li-jie-shao/ji-ben-she-zhi.md)
   * [上传文件](pyone-hou-tai-guan-li-jie-shao/shang-chuan-wen-jian.md)
@@ -19,4 +20,5 @@
     * [新建文件夹](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/xin-jian-wen-jian-jia.md)
     * [移动文件](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/yi-dong-wen-jian.md)
     * [上传本地文件](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/shang-chuan-ben-di-wen-jian.md)
+* [PyOne命令行操作](pyone-ming-ling-hang-cao-zuo.md)
 

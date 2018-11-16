@@ -40,6 +40,10 @@
 
 ![](http://wx2.sinaimg.cn/large/0060lm7Tly1fx8uabs9yuj30lg06k74o.jpg)
 
+### 安装预览
+
+![](../.gitbook/assets/pyone-bang-ding-liu-cheng.gif)
+
 ### 错误指导
 
 如果在绑定网盘过程中，出现错误，可以按照以下内容进行排查：
