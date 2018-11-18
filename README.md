@@ -30,3 +30,11 @@ description: PyOne简介
 
 ![](.gitbook/assets/snipaste_2018-11-16_10-50-26.png)
 
+### 捐助
+
+如果您觉得PyOne是一款对您有帮助的程序，请捐助Abbey！十分感谢！
+
+![&#x652F;&#x4ED8;&#x5B9D;&#x6216;&#x8005;&#x5FAE;&#x4FE1;&#x626B;&#x7801;&#x6350;&#x52A9;10&#x5143;](.gitbook/assets/tim-jie-tu-20181118223249.png)
+
+![&#x652F;&#x4ED8;&#x5B9D;&#x6216;&#x8005;&#x5FAE;&#x4FE1;&#x626B;&#x7801;&#x6350;&#x52A9;5&#x5143;](.gitbook/assets/tim-jie-tu-20181118223502.png)
+

@@ -21,6 +21,9 @@
     * [新建文件夹](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/xin-jian-wen-jian-jia.md)
     * [移动文件](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/yi-dong-wen-jian.md)
     * [上传本地文件](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/shang-chuan-ben-di-wen-jian.md)
-* [PyOne命令行操作](pyone-ming-ling-hang-cao-zuo.md)
-* [QQ交流群](qq-jiao-liu-qun.md)
+* [PyOne命令行操作](pyone-ming-ling-hang-cao-zuo/README.md)
+  * [重启网站](pyone-ming-ling-hang-cao-zuo/zhong-qi-wang-zhan.md)
+  * [上传文件](pyone-ming-ling-hang-cao-zuo/shang-chuan-wen-jian.md)
+  * [更新缓存](pyone-ming-ling-hang-cao-zuo/geng-xin-huan-cun.md)
+* [用户支持](qq-jiao-liu-qun.md)
 
