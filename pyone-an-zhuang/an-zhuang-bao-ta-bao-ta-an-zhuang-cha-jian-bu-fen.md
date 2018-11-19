@@ -12,10 +12,12 @@
 
 然后到**软件管理-运行环境-选择安装MongoDB和Redis**。
 
+整个安装过程**预计需要30分钟**！
+
 ![](../.gitbook/assets/snipaste_2018-11-16_11-12-46.png)
 
 **总结本文**
 
 1. 安装宝塔
-2. 确保在宝塔已经安装了：`Nginx`、`Redis`、`MongoDB`。
+2. 在宝塔已经安装：**`Nginx`、`Redis`、`MongoDB`**。
 
