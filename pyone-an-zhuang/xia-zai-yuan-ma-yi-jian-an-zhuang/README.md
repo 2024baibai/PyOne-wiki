@@ -37,7 +37,7 @@ sh install.sh
 使用一键安装脚本，并检查文件无误之后，运行下面的命令运行网站
 
 ```text
-supervisord -c supervisod.conf
+supervisord -c supervisord.conf
 ```
 
 然后看看是否可以访问：`http://ip:34567`
