@@ -6,6 +6,8 @@
 
 优先使用本方法获取帮助，在QQ群请求其他人的帮助。
 
+提问之前先看看《[提问的艺术](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)》
+
 QQ交流群：[864996565](https://jq.qq.com/?_wv=1027&k=5ypfek0)
 
 ![](.gitbook/assets/tim-tu-pian-20181116234418.jpg)
