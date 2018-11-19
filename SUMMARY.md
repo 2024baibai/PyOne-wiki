@@ -27,5 +27,6 @@
   * [重启网站](pyone-ming-ling-hang-cao-zuo/zhong-qi-wang-zhan.md)
   * [上传文件](pyone-ming-ling-hang-cao-zuo/shang-chuan-wen-jian.md)
   * [更新缓存](pyone-ming-ling-hang-cao-zuo/geng-xin-huan-cun.md)
+* [错误指导](cuo-wu-zhi-dao.md)
 * [用户支持](qq-jiao-liu-qun.md)
 
