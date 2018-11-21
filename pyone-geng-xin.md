@@ -11,21 +11,9 @@
   git pull
   ```
 
-  **重新安装依赖，看是否有新增的依赖包：**
+  **运行更新脚本**
 
   ```text
-  pip install -r requirements.txt
-  ```
-
-  **重启网站：**
-
-  ```text
-  supervisorctl -c supervisord.conf restart pyone
-  ```
-
-  **最好更新一下文件缓存：**
-
-  ```text
-  python function.py UpdateFile
+  sh update.sh
   ```
 
