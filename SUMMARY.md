@@ -36,6 +36,10 @@
   * [重启网站](pyone-ming-ling-hang-cao-zuo/zhong-qi-wang-zhan.md)
   * [上传文件](pyone-ming-ling-hang-cao-zuo/shang-chuan-wen-jian.md)
   * [更新缓存](pyone-ming-ling-hang-cao-zuo/geng-xin-huan-cun.md)
-* [错误指导](cuo-wu-zhi-dao.md)
+* [错误指导](cuo-wu-zhi-dao/README.md)
+  * [502 Bad Gateway](cuo-wu-zhi-dao/502-bad-gateway.md)
+  * [500 Internal Server Error](cuo-wu-zhi-dao/500-internal-server-error.md)
+  * [重启服务器后网站无法打开](cuo-wu-zhi-dao/zhong-qi-fu-wu-qi-hou-wang-zhan-wu-fa-da-kai.md)
+  * [离线下载无法使用？](cuo-wu-zhi-dao/li-xian-xia-zai-wu-fa-shi-yong.md)
 * [用户支持](qq-jiao-liu-qun.md)
 

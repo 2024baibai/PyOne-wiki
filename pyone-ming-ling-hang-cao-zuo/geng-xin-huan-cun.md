@@ -20,5 +20,3 @@ python /root/PyOne/function.py UpdateFile
 python /root/PyOne/function.py UpdateFile new
 ```
 
-\*\*\*\*
-
