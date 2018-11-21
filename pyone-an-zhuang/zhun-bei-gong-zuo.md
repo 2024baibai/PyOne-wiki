@@ -8,8 +8,8 @@
 
 ### 适用环境
 
-1. linux环境（推荐centos7）
-2. Python2.7
+1. **centos7**（其他环境按照下面教程可能会有问题）
+2. **Python2.7**
 3. **需要安装redis，MongoDB（通过宝塔安装）**
 
 
