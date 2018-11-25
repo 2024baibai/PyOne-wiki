@@ -41,5 +41,7 @@
   * [500 Internal Server Error](cuo-wu-zhi-dao/500-internal-server-error.md)
   * [重启服务器后网站无法打开](cuo-wu-zhi-dao/zhong-qi-fu-wu-qi-hou-wang-zhan-wu-fa-da-kai.md)
   * [离线下载无法使用？](cuo-wu-zhi-dao/li-xian-xia-zai-wu-fa-shi-yong.md)
+  * [后台-基本设置-保存未生效。](cuo-wu-zhi-dao/hou-tai-ji-ben-she-zhi-bao-cun-wei-sheng-xiao.md)
+  * [一键安装脚本出错](cuo-wu-zhi-dao/yi-jian-an-zhuang-jiao-ben-chu-cuo.md)
 * [用户支持](qq-jiao-liu-qun.md)
 
