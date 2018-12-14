@@ -44,11 +44,5 @@
 
 ![](../.gitbook/assets/pyone-bang-ding-liu-cheng.gif)
 
-### 错误指导
 
-如果在绑定网盘过程中，出现错误，可以按照以下内容进行排查：
-
-1. 确保正确获取了client\_id和client\_secret
-2. 确保正确填写了client\_id和client\_secret
-3. 一般来说，第一遍不成功，可以从头再来一遍流程！
 
