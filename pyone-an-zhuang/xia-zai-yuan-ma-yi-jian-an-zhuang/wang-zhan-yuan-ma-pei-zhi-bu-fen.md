@@ -26,6 +26,13 @@ cp supervisord.conf.sample supervisord.conf
 
 **tips:** 如果当前不是在`root`目录下，则需要修改**config.py**的**`config_dir`**参数和**supervisord.conf**的**`directory`**参数为正确的目录！！！
 
+#### 创建一个目录
+
+```text
+mkdir /var/run/supervisor
+chmod +x /var/run/supervisor
+```
+
 **试运行**
 
 ```text
