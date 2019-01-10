@@ -44,5 +44,6 @@
   * [离线下载无法使用？](cuo-wu-zhi-dao/li-xian-xia-zai-wu-fa-shi-yong.md)
   * [后台-基本设置-保存未生效。](cuo-wu-zhi-dao/hou-tai-ji-ben-she-zhi-bao-cun-wei-sheng-xiao.md)
   * [一键安装脚本出错](cuo-wu-zhi-dao/yi-jian-an-zhuang-jiao-ben-chu-cuo.md)
+  * [无法更新网站源码？](cuo-wu-zhi-dao/wu-fa-geng-xin-wang-zhan-yuan-ma.md)
 * [用户支持](qq-jiao-liu-qun.md)
 
