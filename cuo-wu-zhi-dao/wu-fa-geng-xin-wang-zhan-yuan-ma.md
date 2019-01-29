@@ -4,7 +4,7 @@
 
 敢不敢切换到网站目录下再去更新？
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 上面是常见的错误，对于没有git基础知识的小白来说，经常犯这种错误。
 
