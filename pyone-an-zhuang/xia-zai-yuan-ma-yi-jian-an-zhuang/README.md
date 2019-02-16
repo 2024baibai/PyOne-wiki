@@ -5,7 +5,7 @@
 一键脚本主要配置以下内容：
 
 1. **自动安装依赖包**；
-2. 配置**config.py**和**supervisord.conf**；
+2. 配置**self\_config.py**和**supervisord.conf**；
 3. 配置**开机启动**；
 4. **自动安装aria2**；
 
