@@ -33,7 +33,7 @@
     * [删除网盘](pyone-hou-tai-guan-li-jie-shao/wang-pan-guan-li-1/shan-chu-wang-pan.md)
     * [网盘信息编辑](pyone-hou-tai-guan-li-jie-shao/wang-pan-guan-li-1/wang-pan-xin-xi-bian-ji.md)
   * [上传文件](pyone-hou-tai-guan-li-jie-shao/shang-chuan-wen-jian.md)
-  * [页面缓存](pyone-hou-tai-guan-li-jie-shao/ye-mian-huan-cun.md)
+  * [更新列表](pyone-hou-tai-guan-li-jie-shao/ye-mian-huan-cun.md)
   * [文件管理](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/README.md)
     * [删除文件](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/shan-chu-wen-jian.md)
     * [设置密码、README、HEAD](pyone-hou-tai-guan-li-jie-shao/wen-jian-guan-li/she-zhi-mi-ma-readmehead.md)

@@ -17,3 +17,9 @@ cd aria2_installer
 sh install_aria2.sh
 ```
 
+**aria2前端页面**：
+
+参考：[https://github.com/abbeyokgo/aria2\_installer](https://github.com/abbeyokgo/aria2_installer)
+
+
+
