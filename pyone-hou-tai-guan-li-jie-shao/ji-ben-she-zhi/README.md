@@ -2,9 +2,7 @@
 
 先看一看**基本设置**的页面。
 
-![](../../.gitbook/assets/tim-jie-tu-20181120170351.png)
-
-
+![](../../.gitbook/assets/snipaste_2019-03-26_14-08-59.png)
 
 
 
