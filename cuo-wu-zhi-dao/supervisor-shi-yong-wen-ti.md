@@ -8,5 +8,11 @@
 ConnectionError: Error 111 connecting to localhost:6379. ECONNREFUSED
 ```
 
-**注意这一行，这个说明是6379端口有问题，6379是什么服务？redis！说明你可能没有安装或者运行redis**
+**6379端口有问题，6379是什么服务？redis！说明你可能没有安装或者运行redis**
+
+```text
+ServerSelectionTimeoutError: localhost:27017: [Errno 111] ECONNREFUSED
+```
+
+**27017端口有问题，27017是什么服务？MongoDB！说明你可能没有安装或者运行MongoDB**
 
