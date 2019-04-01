@@ -63,5 +63,6 @@
   * [一键安装脚本出错](cuo-wu-zhi-dao/yi-jian-an-zhuang-jiao-ben-chu-cuo.md)
   * [supervisor使用问题](cuo-wu-zhi-dao/supervisor-shi-yong-wen-ti.md)
   * [无法更新网站源码？](cuo-wu-zhi-dao/wu-fa-geng-xin-wang-zhan-yuan-ma.md)
+  * [error:The caller does not have permission to perform the action.! waiting 180s](cuo-wu-zhi-dao/error-the-caller-does-not-have-permission-to-perform-the-action.-waiting-180s.md)
 * [用户支持](qq-jiao-liu-qun.md)
 
