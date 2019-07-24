@@ -23,14 +23,16 @@ git clone https://github.com/abbeyokgo/PyOne.git
 
 ```text
 cd PyOne
-sh install.sh
+bash install.sh
 ```
 
 然后按照提示进行操作！
 
+安装过程中会要求输入：**MongoDB端口号（27017）、Redis端口号（6379）、Aria2密钥、PyOne后台密码**
+
 安装完成提示
 
-![](../../.gitbook/assets/snipaste_2018-11-19_11-05-14.png)
+![](../../.gitbook/assets/snipaste_2019-07-24_15-16-50.png)
 
 安装过程中，会**安装aria2**，用于做onedrive网盘**离线下载**功能。
 
